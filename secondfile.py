@@ -1,2 +1,2 @@
-my_name="Pavan";
-print(my_name);
+range(1,10)
+print(range(1,10));
